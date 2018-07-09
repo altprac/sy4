@@ -1,9 +1,9 @@
 # sy4
 ## A JavaScript evaluation notation language
 
-Sy4 is a simple JSON format  to enable evaliation in JavaScript.
+Sy4 is a simple JSON format to enable evaliation in JavaScript.
 
-Sy4 is a definition of the required formula it does not actaully perform any actions - use enigma and sp1 for this
+Sy4 is a definition of the required formula it does not actaully perform any actions - use asssassin and sp1 for this
 
 In its simplest form it consists of an array with an action and parameters. 
 
@@ -44,5 +44,8 @@ __The data passed to sp1 will be checked for the key a.b__
 
 \== equality
 
+\!= inequality
+
 \= evaluation (retuns the first parameter without processing)
+
 
