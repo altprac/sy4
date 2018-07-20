@@ -3,7 +3,7 @@
 
 Sy4 is a simple JSON format to enable evaliation in JavaScript.
 
-Sy4 is a definition of the required formula it does not actaully perform any actions - use asssassin and sp1 for this
+Sy4 is a definition of the required formula it does not actaully perform any actions - use asssassin and envoy for this
 
 In its simplest form it consists of an array with an action and parameters. 
 
